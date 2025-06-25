@@ -1,5 +1,4 @@
-## Hi there 👋 I'm a recent CSE grad from UIET Kurukshetra, passionate about building
-## full-stack applications using the MERN stack and solving real-world problems through code.
+## Hi there 👋 I'm a recent CSE grad from UIET Kurukshetra, passionate about building full-stack applications using the MERN stack and solving real-world problems through code.
 
 - 💻 Tech Stack : JavaScript | React.js | Node.js | MongoDB | Express | Cloudinary | TailwindCSS
 - 🧠 I've tackled over 250+ LeetCode DSA problems to strengthen my core CS fundamentals.
