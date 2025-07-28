@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm a recent CSE grad from UIET Kurukshetra, passionate about building full-stack applications using the MERN stack and solving real-world problems through code.
 
-- 💻 Tech Stack : JavaScript | React.js | Node.js | MongoDB | Express | Cloudinary | TailwindCSS
-- 🧠 I've tackled over 250+ LeetCode DSA problems to strengthen my core CS fundamentals.
+- 💻 Tech Stack : JavaScript | React.js | Node.js | MongoDB | Express | TailwindCSS
+- 🧠 I've tackled over 300+ LeetCode DSA problems to strengthen my core CS fundamentals.
 - 🚀 Currently working on full-stack projects that solve problems I care about-open to collaboration and feedback!
 - 📫 Reach out : 📧 "vhimanshu.official@gmail.com" | 🧰 "https://www.linkedin.com/in/himanshuv8"
 
